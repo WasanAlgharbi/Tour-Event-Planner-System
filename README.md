@@ -106,7 +106,7 @@ Tour-Event-Planner-System
 **University:** University of Ha'il  
 **College:** College of Computer Science and Engineering  
 
-**Supervisor:** Dr. Lamia Al-Harbi
+
 
 ---
 
