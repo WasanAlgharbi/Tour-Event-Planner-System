@@ -12,54 +12,98 @@ University of Ha'il
 ---
 
 <p align="center">
-Requirements Engineering • UML Modeling • System Design
+
+Requirements Engineering • UML Modeling • System Analysis • System Design
+
 </p>
 
 ---
 
 ## Project Overview
 
-The **Tour & Event Planner System** is a collaborative Software Engineering project that focuses on analyzing and designing a centralized tourism platform.
+The **Tour & Event Planner System** is a collaborative Software Engineering project that focuses on the analysis and design of a tourism event planning platform.
 
-The proposed system helps users discover tourism events, explore attractions, book activities, and manage their tourism experience through a unified platform.
+The proposed system aims to provide tourists with a centralized platform for discovering tourism events, exploring attractions, booking activities, and managing their travel experience while allowing service providers to publish and manage events.
 
-This project was developed for the **CSCE 232 – Software Engineering** course at the **University of Ha'il**, following the Software Development Life Cycle (SDLC) from requirements analysis to system design.
+This project was developed as part of the **CSCE 232 – Software Engineering** course at the **University of Ha'il**.
 
 ---
 
 ## Project Objectives
 
-- Analyze stakeholders and user needs.
-- Define functional and non-functional requirements.
-- Create software design models using UML.
-- Document the system analysis and design process.
+- Analyze stakeholder requirements.
+- Identify functional and non-functional requirements.
+- Produce a complete Software Requirements Specification (SRS).
+- Design the proposed system using UML diagrams.
+- Apply Software Engineering principles throughout the analysis and design phases.
 
 ---
 
 ## Project Scope
 
-This repository represents the **analysis and design phases** of the Software Development Life Cycle.
+This repository documents the **analysis and design phases** of the Software Development Life Cycle (SDLC).
 
-It includes requirements documentation, UML diagrams, system models, and interface designs.
-
-No source code implementation is included.
+It does **not** contain source code implementation. Instead, it includes the documentation and design artifacts produced before software development begins.
 
 ---
 
-## Documentation & Design
+## Repository Structure
 
-The project contains:
+```text
+Tour-Event-Planner-System
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs
+│   └── Final-Report.pdf
+│
+├── diagrams
+│   ├── Class-Diagram.JPG
+│   ├── Use-Case-Diagram.JPG
+│   └── System-Sequence-Diagram.JPG
+│
+└── images
+    └── UI-Design.JPG
+```
 
-- Stakeholder Analysis
+---
+
+## Project Documentation
+
 - Software Requirements Specification (SRS)
-- Functional & Non-Functional Requirements
+- Stakeholder Analysis
+- Functional Requirements
+- Non-Functional Requirements
 - Fully Dressed Use Cases
-- UML Diagrams:
-  - Use Case Diagram
-  - System Sequence Diagram
-  - Class Diagram
-  - Activity Diagram
-- User Interface Designs
+- User Interface Design
+
+---
+
+## UML Diagrams
+
+### Use Case Diagram
+
+![Use Case Diagram](diagrams/Use-Case-Diagram.JPG)
+
+---
+
+### Class Diagram
+
+![Class Diagram](diagrams/Class-Diagram.JPG)
+
+---
+
+### System Sequence Diagram
+
+![System Sequence Diagram](diagrams/System-Sequence-Diagram.JPG)
+
+---
+
+## User Interface
+
+![UI Design](images/UI-Design.JPG)
 
 ---
 
@@ -69,24 +113,8 @@ The project contains:
 - Requirements Engineering
 - UML Modeling
 - System Analysis
-- Software Design
-- SDLC
-
----
-
-## Repository Structure
-
-```text
-Tour-Event-Planner-System
-
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── docs
-├── diagrams
-└── ui-design
-```
+- System Design
+- Software Development Life Cycle (SDLC)
 
 ---
 
@@ -102,14 +130,14 @@ Tour-Event-Planner-System
 
 ## Academic Information
 
-**Course:** CSCE 232 – Software Engineering  
-**University:** University of Ha'il  
-**College:** College of Computer Science and Engineering  
+**Course:** CSCE 232 – Software Engineering
 
+**University:** University of Ha'il
 
+**College:** College of Computer Science and Engineering
 
 ---
 
 ## Academic Purpose
 
-This repository demonstrates the application of Software Engineering principles, requirements analysis, and UML modeling techniques in a collaborative academic project.
+This repository demonstrates the application of Software Engineering principles, requirements engineering, and UML modeling techniques through a collaborative university project. It is published for educational and portfolio purposes.
